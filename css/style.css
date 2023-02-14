@@ -1,0 +1,80 @@
+body{
+    background-color:rgb(234, 245, 244);
+    background-size:cover;
+
+    margin:5 20 20 20;
+}
+hr{
+    border-style:dotted none none;
+    border-color:rgb(128, 164, 225);
+    border-width:8px;
+    width:8%;
+} 
+h5{
+    color:#bd0808;
+    font-size:20px;
+}
+h4{
+    font-size:25px;
+}
+h1{
+    font-size:40px;
+    color:#139bb3;
+}
+h2{
+    text-decoration: underline;
+    font-size:35px;
+    color:#036d64;
+}
+th{
+    color:rgb(104, 8, 60);
+}
+h3{
+    font-size:25px;
+}
+.head
+{
+    background-color: rgba(166, 207, 100, 0.4);
+    color:rgb(45, 10, 128);
+}
+img{
+    position:absolute;
+    right:30px;
+    top:80px;
+}
+.tab{
+    color:rgb(197, 60, 60);
+    font-size: 23px;
+    background-color:rgba(229, 169, 233, 0.4) ;
+}
+.de{
+    font-size:25px;
+}
+.sp
+{
+    font-size:20px;
+    color:#bd0808;
+}
+div{
+    position: absolute;
+    font-size:25px;
+    top:20px;
+    right:20px;
+}
+.b{
+    position: absolute;
+    top:4400px;
+    right:40px;
+}
+.l{
+    border-width:8px;
+    width:70%;
+    border-style:dotted none none;
+    border-color:rgb(130, 0, 80);
+}
+
+/*elements defined with . are the classes which differentiate between the instances of same tags*/
+/*id(they are unique)elements can have only one unique id name but can have classes with same name*/
+/* id are defined in css #id_name{}
+/*classes and ids overwrite the tag selector
+/*
